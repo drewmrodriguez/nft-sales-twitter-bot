@@ -69,4 +69,4 @@ In `app.js`, you'll notice there's some commented out logic for only posting sal
 
 This code is licensed under the [ISC License](https://choosealicense.com/licenses/isc/).
 
-Please include proper attribution to my original repo if you fork, modify or utilize this repo in any way. Thank you!
+Please include proper attribution to my original repo if you fork, modify or utilize this repo in any way. 
